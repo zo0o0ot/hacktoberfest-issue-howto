@@ -21,6 +21,9 @@ If someone has never seen your repo before, they probably don't know how your st
 Make a permalink to the line numbers, or refer to particular parts of code that are relevant.  Here is how to create a permalink to a line or lines of code that can be used inside of an issue: https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet
 You can do the normal user story stuff here. Example: As a _someone_, I want _a thing_ so that I can _do something_.
 
+### When it's useful to do so, include screenshots or images.
+GitHub makes it really easy to add images to your issues, and a picture can be very descriptive, so consider using a screenshot to help explain what you're looking for.
+
 ### Split work into small chunks.
 One big hurdle that keeps people from putting in that first pull request is looking at the issue, not knowing where to start, then closing everything without making any contributions. Splitting up work into smaller, but still meaningful, bits. Create issues that fit between "Add your name to a text file" and "Reinvent quantum computing and create order from chaos".
 
