@@ -17,6 +17,9 @@ Keeping aware of these characteristics, we want to have as little friction as po
 ### Introduce the part of the program that needs attention and how it works in general.
 If someone has never seen your repo before, they probably don't know how your stuff works.  Help them out. Give a general overview of what is currently happening in the application.
 
+### Use a Descriptive Title for Easy to Understand Directions
+Many folks won't open the issue if they don't think they can help you with the solution.
+
 ### Define the problem or enhancement you want.
 Make a permalink to the line numbers, or refer to particular parts of code that are relevant.  Here is how to create a permalink to a line or lines of code that can be used inside of an issue: https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet
 You can do the normal user story stuff here. Example: As a _someone_, I want _a thing_ so that I can _do something_.
@@ -32,3 +35,37 @@ Consider giving some architectural advice on the sort of change you're looking t
 
 ### Be communicative when people offer to help.
 Folks will often reach out in the issue comemnts before getting into the code. Be supportive.
+
+
+# Advice for Hackertoberfest First Timers and Noobs:
+## Welcome!
+Thanks for choosing to work on open source code.  You may be motivated by personal development, a career in programming, or a really comfy t-shirt.  All of these are valid reasons. There are other reasons too, including "because I felt like it", and that's OK, too.
+
+## Looking for issues:
+There are a variety of places to look for new issues, but they aren't always friendly.
+* [IssueHub](http://issuehub.io)
+* [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
+* [Up For Grabs](https://up-for-grabs.net/#/)
+
+It can be useful to define what level of commitment you're looking to make in picking up an issue.
+Possible places you spend time working on an issue include:
+* Reading the issue itself
+* Understanding what the heck they want.
+* Asking clarifying questions in the issue discussion
+* Communicating that you intend to work on this issue to the repo owner(s)
+* Figuring out which file or files need to be opened to figure out the solution.
+* Trying, potentially failing, trying again, lather, rinse, repeat.
+* Creating the solution.
+* Testing your solution.
+* Commiting your changes and giving the commit a descriptive name
+* Opening up a pull request
+* Discussing your pull request
+* Potentially make changes to your pull request.
+* Doing a happy dance if your pull request is accepted.
+
+The more you do the above actions, the more quickly you can accomplish these things. For your first issue, plan on at least a couple minutes to accomplish each task in the above list in order to keep from getting too discouraged.  If you already know the solution to the issue, make sure you still plan on spending time communicating with the repo owners about the work you plan to do.
+
+Depending on the level of programming experience you have, it might be good to set a goal of spending approximately 1 hour per Hacktoberfest Pull Request, not including wading through all of the issues.  Hopefully, you find a cool repo with a helpful owner that makes this process smooth and empowering, not painful and toxic. If you don't find issues right away, don't fret!  You CAN make your repositories, and create your own issues.  Then, you can use the valuable experience of having looked through a bunch of GitHub issues to write clearly defined, achievable issues that you and others can work on.
+
+## You can do this!
+Remember, contributing to open source should be fun and fulfilling, so if you're discouraged, take a break.  Go and take a walk, play a game, or interact with people you care about, and come back to it when you're feeling recharged and motivated.
