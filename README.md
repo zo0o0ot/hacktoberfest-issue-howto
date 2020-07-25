@@ -27,6 +27,10 @@ You can do the normal user story stuff here. Example: As a _someone_, I want _a 
 ### When it's useful to do so, include screenshots or images.
 GitHub makes it really easy to add images to your issues, and a picture can be very descriptive, so consider using a screenshot to help explain what you're looking for.
 
+Gifs and diagrams can be very helpful, too!
+![example](https://user-images.githubusercontent.com/876146/88444298-20834c00-cde2-11ea-822f-960329388719.gif)
+
+
 ### Split work into small chunks.
 One big hurdle that keeps people from putting in that first pull request is looking at the issue, not knowing where to start, then closing everything without making any contributions. Splitting up work into smaller, but still meaningful, bits. Create issues that fit between "Add your name to a text file" and "Reinvent quantum computing and create order from chaos".
 
