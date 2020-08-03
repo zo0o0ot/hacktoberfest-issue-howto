@@ -12,7 +12,7 @@ _A first-time contributor may have some of these characteristics:_
 * They have limited free time, and are using Hacktoberfest as a trial run in spending free time working on open source code.
 * They like free t-shirts and stickers.
 
-Keeping aware of these characteristics, we want to have as little friction as possible between creating an issue, having a stranger read that issue, decide to work on the project, bring down your repo and get it to run, make the needed changes, and  
+Keeping aware of these characteristics, we want to have as little friction as possible between creating an issue, having a stranger read that issue, decide to work on the project, bring down your repo and get it to run, make the needed changes, and put in a pull request, have their code reviewed, and get those changes accepted.
 
 ### Introduce the part of the program that needs attention and how it works in general.
 If someone has never seen your repo before, they probably don't know how your stuff works.  Help them out. Give a general overview of what is currently happening in the application.
