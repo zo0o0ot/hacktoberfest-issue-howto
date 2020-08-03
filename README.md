@@ -58,6 +58,7 @@ Here are some tags to consider using in your issue labels:
  * easy
  * documentation
  * tests
+ 
 Aim to be truthful with your tags. Don't tag everything with trivial if you don't think it will be.
 
 ### Be communicative when people offer to help.
