@@ -5,7 +5,7 @@ This repo will contain tips for two sets of folks: Repo owners that create issue
 
 ## Making a good Hacktoberfest issue:
 The secret to getting pull requests from Hacktoberfest participants is trying to put yourself in the shoes of a first time contributor.
-_A first-time contributor may have some of these chartacteristics:_
+_A first-time contributor may have some of these characteristics:_
 * This may be their first time using Github, or their first time using source control out of a work or school context.
 * They have zero to many years of experience in this programming language.
 * They may have previously worked on projects alone or in very small groups, always starting from the beginning of the project.
@@ -40,8 +40,25 @@ There are a variety of services that allow you to open your repo inside of a con
 ### Give suggestions on a possible path to pursue to accomplish the task.
 Consider giving some architectural advice on the sort of change you're looking to see.
 
+### Tags, Tags, Tags!
+There are websites that help people find Hacktoberfest tickets to do, and many of them allow the potential coder to filter by tags/labels.  If you want your ticket to be found, use tags in your labels section that will make your issues appear in these lists!
+Here are some tags to consider using in your issue labels:
+ * up-for-grabs
+ * first-timers-only
+ * trivial
+ * beginner
+ * "easy pick"
+ * "good first issue"
+ * "help wanted"
+ * newcomers
+ * jump-in
+ * easy
+ * documentation
+ * tests
+Aim to be truthful with your tags. Don't tag everything with trivial if you don't think it will be.
+
 ### Be communicative when people offer to help.
-Folks will often reach out in the issue comemnts before getting into the code. Be supportive.
+Folks will often reach out in the issue comments before getting into the code. Be supportive.
 
 
 # Advice for Hackertoberfest First Timers and Noobs:
@@ -54,6 +71,11 @@ There are a variety of places to look for new issues, but they aren't always fri
 * [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 
+### Looking for additional swag?
+Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
+A good place to look for places that are offering additional stuff is the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/).  Feel free to check that out if you're feeling adventurous.
+
+
 It can be useful to define what level of commitment you're looking to make in picking up an issue.
 Possible places you spend time working on an issue include:
 * Reading the issue itself
@@ -64,7 +86,7 @@ Possible places you spend time working on an issue include:
 * Trying, potentially failing, trying again, lather, rinse, repeat.
 * Creating the solution.
 * Testing your solution.
-* Commiting your changes and giving the commit a descriptive name
+* Committing your changes and giving the commit a descriptive name
 * Opening up a pull request
 * Discussing your pull request
 * Potentially make changes to your pull request.
