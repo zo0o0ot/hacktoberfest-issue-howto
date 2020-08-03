@@ -34,6 +34,9 @@ Gifs and diagrams can be very helpful, too! You can use free software like [LICE
 ### Split work into small chunks.
 One big hurdle that keeps people from putting in that first pull request is looking at the issue, not knowing where to start, then closing everything without making any contributions. Splitting up work into smaller, but still meaningful, bits. Create issues that fit between "Add your name to a text file" and "Reinvent quantum computing and create order from chaos".
 
+### Do you know the lines of code you want changed?  Include them with a code snippet!
+In 2017, GitHub added the ability to [embed code snippets into your issues](https://github.blog/2017-08-15-introducing-embedded-code-snippets/). To include your code, you're going to need to create a permanent link to a code snippet, and GitHub has put some documentation on how to do so [here](https://docs.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet).  Generally, if you go to the code in question on the GitHub website, there's a little context menu on the left side that lets you select the code and make a permalink.  You can also create an issue directly from this menu, if you haven't already created the issue. Giving the additional code context can really help get someone more familiar with the code in your project.
+
 ### Consider making your repo "ready to code"
 There are a variety of services that allow you to open your repo inside of a container with an online IDE, which greatly I've had good luck using [GitPod](https://gitpod.io/) to do so on some of my repos, but other alternatives exist, such as [Glitch](https://glitch.com/) and the upcoming [GitHub Codespaces](https://github.com/features/codespaces), so feel free to make your own decisions based on programming language or other factors.
 
