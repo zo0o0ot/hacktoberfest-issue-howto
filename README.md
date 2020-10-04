@@ -64,6 +64,20 @@ Aim to be truthful with your tags. Don't tag everything with trivial if you don'
 ### Be communicative when people offer to help.
 Folks will often reach out in the issue comments before getting into the code. Be supportive.
 
+### Use templates and guidelines to help communicate what you expect.
+
+#### CONTRIBUTING.md files
+The standard way to provide guidelines on contributions to your repository is to create a CONTRIBUTING.md file. 
+That file should contain your expectations for contributors, and any background information that those contributors should go through if they wish to participate in your repository.
+What should you put in it? [Embedded Artistry has a good checklist](https://embeddedartistry.com/blog/2017/12/11/get-others-involved-in-your-project-with-a-contributing-guide/) and [Mozilla has an article about how to create one](http://mozillascience.github.io/working-open-workshop/contributing/).
+Borrowing is the sincerest form of flattery, so you could always look at the [more than 7 million references to CONTRIBUTING.md on GitHub](https://github.com/search?q=contributing.md&type=Code).
+
+#### Pull Request templates
+Do you want something included in your pull requests? Create a template, and you can auto-populate your pull request with the information that you're looking for.
+[Github has some good documentation about it](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository), but there are a few rules of thumb.
+* If you want the template to be easily viewable, make it in pull_request_template.md or docs/pull_request_template.md
+* If you want it to be in a hidden directory, make it in .github/pull_request_template.md
+* To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated. 
 
 # Advice for Hackertoberfest First Timers and Noobs:
 ## Welcome!
