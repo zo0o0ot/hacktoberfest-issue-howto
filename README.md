@@ -3,6 +3,21 @@ Best practices for creating issues that encourage people to give useful PRs in r
 
 This repo will contain tips for two sets of folks: Repo owners that create issues, and Hacktoberfest participants that want to use the allure of a comfy free t-shirt to try out contributing to open source.
 
+## Hacktoberfest is now opt-in.  Make sure you have opted in.
+PRs for Hacktoberfest count if:
+
+- Submitted during the month of October AND
+- Submitted in a public repo AND
+    + The PR is labelled as `hacktoberfest-accepted` by a maintainer OR
+    + Submitted in a repo with the `hacktoberfest` topic AND
+      - The PR is merged OR
+      - The PR has been approved
+
+Not familiar with repository topics?  I wasn't, either.
+- Go to your repo and click "About", then add any useful topics, along with `hacktoberfest` if you want contributors.
+![giving your repo topics](https://user-images.githubusercontent.com/876146/96199831-04dd9c80-0f1e-11eb-9100-f111453f12c4.gif)
+
+
 ## Making a good Hacktoberfest issue:
 The secret to getting pull requests from Hacktoberfest participants is trying to put yourself in the shoes of a first time contributor.
 _A first-time contributor may have some of these characteristics:_
@@ -63,6 +78,10 @@ Aim to be truthful with your tags. Don't tag everything with trivial if you don'
 
 ### Be communicative when people offer to help.
 Folks will often reach out in the issue comments before getting into the code. Be supportive.
+
+### Was their PR helpful?  Add the `hacktoberfest-accepted` tag!
+Did you appreciate their work? Help them get credit for it by either merging the PR, adding the `hacktoberfest-accepted` tag, or both!
+![hacktoberfest-accepted](https://user-images.githubusercontent.com/876146/96200885-be3d7180-0f20-11eb-930f-700d7a21f04c.png)
 
 ### Use templates and guidelines to help communicate what you expect.
 
