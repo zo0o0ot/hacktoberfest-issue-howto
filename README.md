@@ -15,6 +15,7 @@ PRs for Hacktoberfest count if:
 
 Not familiar with repository topics?  I wasn't, either.
 - Go to your repo and click "About", then add any useful topics, along with `hacktoberfest` if you want contributors.
+
 ![giving your repo topics](https://user-images.githubusercontent.com/876146/96199831-04dd9c80-0f1e-11eb-9100-f111453f12c4.gif)
 
 
@@ -43,6 +44,7 @@ You can do the normal user story stuff here. Example: As a _someone_, I want _a 
 GitHub makes it really easy to add images to your issues, and a picture can be very descriptive, so consider using a screenshot to help explain what you're looking for.
 
 Gifs and diagrams can be very helpful, too! You can use free software like [LICEcap](https://www.cockos.com/licecap/) to make these relatively easily.
+
 ![example](https://user-images.githubusercontent.com/876146/88444298-20834c00-cde2-11ea-822f-960329388719.gif)
 
 
@@ -81,6 +83,7 @@ Folks will often reach out in the issue comments before getting into the code. B
 
 ### Was their PR helpful?  Add the `hacktoberfest-accepted` tag!
 Did you appreciate their work? Help them get credit for it by either merging the PR, adding the `hacktoberfest-accepted` tag, or both!
+
 ![hacktoberfest-accepted](https://user-images.githubusercontent.com/876146/96200885-be3d7180-0f20-11eb-930f-700d7a21f04c.png)
 
 ### Use templates and guidelines to help communicate what you expect.
